@@ -1,0 +1,2 @@
+- [x] Live order board, 3 cooks, rush hour 10
+- [x] Error dialogs, receipt modal, order history
